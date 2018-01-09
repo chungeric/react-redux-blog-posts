@@ -1,25 +1,16 @@
-# ReduxSimpleStarter
+# React-Redux Blog Posts App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A Practice Project using **React** and **Redux** from the Modern React with Redux Course by Stephen Grider on Udemy.com.
+
+- **react-router** is used for routing
+- **Posts API** is used to handle blog post storage and retrieval
+
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/chungeric/react-redux-blog-posts.git
+> cd react-redux-blog-posts
 > npm install
 > npm start
 ```
