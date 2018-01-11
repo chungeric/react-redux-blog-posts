@@ -9,8 +9,8 @@ A Practice Project using **React** and **Redux** from the Modern React with Redu
 ### Getting Started
 
 ```
-> git clone https://github.com/chungeric/react-redux-blog-posts.git
-> cd react-redux-blog-posts
+> git clone https://github.com/chungeric/udemy-react-redux-blog-posts.git
+> cd udemy-react-redux-blog-posts
 > npm install
 > npm start
 ```
